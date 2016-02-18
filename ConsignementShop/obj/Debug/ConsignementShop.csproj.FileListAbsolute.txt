@@ -1,0 +1,11 @@
+c:\users\nuno\documents\visual studio 2015\Projects\ConsignementShop\ConsignementShop\bin\Debug\ConsignementShop.exe.config
+c:\users\nuno\documents\visual studio 2015\Projects\ConsignementShop\ConsignementShop\bin\Debug\ConsignementShop.exe
+c:\users\nuno\documents\visual studio 2015\Projects\ConsignementShop\ConsignementShop\bin\Debug\ConsignementShop.pdb
+c:\users\nuno\documents\visual studio 2015\Projects\ConsignementShop\ConsignementShop\obj\Debug\ConsignementShop.csprojResolveAssemblyReference.cache
+c:\users\nuno\documents\visual studio 2015\Projects\ConsignementShop\ConsignementShop\obj\Debug\ConsignementShop.Properties.Resources.resources
+c:\users\nuno\documents\visual studio 2015\Projects\ConsignementShop\ConsignementShop\obj\Debug\ConsignementShop.csproj.GenerateResource.Cache
+c:\users\nuno\documents\visual studio 2015\Projects\ConsignementShop\ConsignementShop\obj\Debug\ConsignementShop.exe
+c:\users\nuno\documents\visual studio 2015\Projects\ConsignementShop\ConsignementShop\obj\Debug\ConsignementShop.pdb
+c:\users\nuno\documents\visual studio 2015\Projects\ConsignementShop\ConsignementShop\bin\Debug\ConsignmentShopLibrary.dll
+c:\users\nuno\documents\visual studio 2015\Projects\ConsignementShop\ConsignementShop\bin\Debug\ConsignmentShopLibrary.pdb
+C:\Users\Nuno\Documents\Visual Studio 2015\Projects\ConsignementShop\ConsignementShop\obj\Debug\ConsignementShop.ConsignmentShop.resources
